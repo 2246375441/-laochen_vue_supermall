@@ -1,0 +1,11 @@
+首页     :home
+分类    :category
+购物车   :cart
+商品详情 :detail
+
+登录注册  :login
+个人页面  :profile
+个人设置  :profile_settings
+缺认订单  :confirm_order
+优惠券   :coupon
+地址     :address
